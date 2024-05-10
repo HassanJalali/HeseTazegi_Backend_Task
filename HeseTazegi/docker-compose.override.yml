@@ -1,0 +1,17 @@
+version: '3.4'
+
+services:
+  hesetazegi.webapi:
+    environment:
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+      - ASPNETCORE_ENVIRONMENT=Development
+      - DB_NAME=HeseTazegi-db
+      - DB_USER=SA
+      - DB_PASS=Qwerty*2607548
+      - TZ=Ira
+    ports:
+      - "8081:80"
+      - "8082:443"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro

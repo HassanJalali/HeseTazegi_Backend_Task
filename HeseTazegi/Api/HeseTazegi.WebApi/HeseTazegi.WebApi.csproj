@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>dd5d53c1-6816-4843-8ae6-8620f65d47ad</UserSecretsId>
+		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+		<DockerfileContext>..\..</DockerfileContext>
+		<DockerComposeProjectPath>..\..\docker-compose.dcproj</DockerComposeProjectPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.11" />
+		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.4" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.11" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\Framework\Framework.Core\Framework.Core.csproj" />
+		<ProjectReference Include="..\..\Framework\Framework.DependencyInjection\Framework.DependencyInjection.csproj" />
+		<ProjectReference Include="..\..\Read\HeseTazegi.Read.Context\HeseTazegi.Read.Context.csproj" />
+		<ProjectReference Include="..\..\Read\HeseTazegi.Read.Queries.Contracts\HeseTazegi.Read.Queries.Contracts.csproj" />
+		<ProjectReference Include="..\..\Read\HeseTazegi.Read.Queries.Handlers\HeseTazegi.Read.Queries.Handlers.csproj" />
+		<ProjectReference Include="..\..\Write\HeseTazegi.Application.Contracts\HeseTazegi.Application.Contracts.csproj" />
+		<ProjectReference Include="..\..\Write\HeseTazegi.Application\HeseTazegi.Application.csproj" />
+		<ProjectReference Include="..\..\Write\HeseTazegi.Database\HeseTazegi.Database.csproj" />
+		<ProjectReference Include="..\..\Write\HeseTazegi.Domain.Services\HeseTazegi.Domain.Services.csproj" />
+		<ProjectReference Include="..\..\Write\HeseTazegi.Facade.Contracts\HeseTazegi.Facade.Contracts.csproj" />
+		<ProjectReference Include="..\..\Write\HeseTazegi.Facade\HeseTazegi.Facade.csproj" />
+	</ItemGroup>
+
+</Project>

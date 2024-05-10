@@ -1,0 +1,335 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Queries.Handlers\\HeseTazegi.Read.Queries.Handlers.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.Core\\Framework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.Core\\Framework.Core.csproj",
+        "projectName": "Framework.Core",
+        "projectPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.Core\\Framework.Core.csproj",
+        "packagesPath": "C:\\Users\\Mister.Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mister.Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.ReadModel\\Framework.ReadModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.ReadModel\\Framework.ReadModel.csproj",
+        "projectName": "Framework.ReadModel",
+        "projectPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.ReadModel\\Framework.ReadModel.csproj",
+        "packagesPath": "C:\\Users\\Mister.Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.ReadModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mister.Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Context\\HeseTazegi.Read.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Context\\HeseTazegi.Read.Context.csproj",
+        "projectName": "HeseTazegi.Read.Context",
+        "projectPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Context\\HeseTazegi.Read.Context.csproj",
+        "packagesPath": "C:\\Users\\Mister.Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mister.Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Queries.Contracts\\HeseTazegi.Read.Queries.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Queries.Contracts\\HeseTazegi.Read.Queries.Contracts.csproj",
+        "projectName": "HeseTazegi.Read.Queries.Contracts",
+        "projectPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Queries.Contracts\\HeseTazegi.Read.Queries.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Mister.Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Queries.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mister.Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.Core\\Framework.Core.csproj"
+              },
+              "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.ReadModel\\Framework.ReadModel.csproj": {
+                "projectPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.ReadModel\\Framework.ReadModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Queries.Handlers\\HeseTazegi.Read.Queries.Handlers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Queries.Handlers\\HeseTazegi.Read.Queries.Handlers.csproj",
+        "projectName": "HeseTazegi.Read.Queries.Handlers",
+        "projectPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Queries.Handlers\\HeseTazegi.Read.Queries.Handlers.csproj",
+        "packagesPath": "C:\\Users\\Mister.Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Queries.Handlers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mister.Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Context\\HeseTazegi.Read.Context.csproj": {
+                "projectPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Context\\HeseTazegi.Read.Context.csproj"
+              },
+              "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Queries.Contracts\\HeseTazegi.Read.Queries.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Read\\HeseTazegi.Read.Queries.Contracts\\HeseTazegi.Read.Queries.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

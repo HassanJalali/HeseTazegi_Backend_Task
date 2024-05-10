@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3XW1AUWFafCheNKQuQp00wgxJRGtC05MRdNRrP+Clgcc11JhT5kgQ2ccN0so3W/ZiuOwjHsjc2a1DkNKvgoXqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.Web\\Framework.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

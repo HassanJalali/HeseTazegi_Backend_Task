@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQP+kfqt8cwcRy/7yU/MBh8J5aI48aU8y1cc+3Li7djlW7gg6b6gj4EiPNmxdm3X63QACe4v7e04rB3b0oHOdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.Utility\\Framework.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\pluralize.net.core\\1.0.0\\pluralize.net.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

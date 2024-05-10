@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h1IeslYY3eJ2HkvwDwh/mtTWJ/8bDf4F0clUjo8KWtlHH5j6l15az+R/cChDglcBCwVNTQ+Iln+Ssz3fxH3sig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Framework\\Framework.Core\\Framework.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

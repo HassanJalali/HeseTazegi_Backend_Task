@@ -1,0 +1,35 @@
+version: '3.4'
+
+services:
+  hesetazegi.webapi:
+    container_name: hesetazegi-webapi
+    hostname: hesetazegi-webapi
+    image: ${DOCKER_REGISTRY-}hesetazegiwebapi
+    build:
+      context: .
+      dockerfile: Api/HeseTazegi.WebApi/Dockerfile
+    depends_on:
+      mssql-db:
+       condition: service_started
+       restart: true
+
+  mssql-db:
+   container_name: HeseTazegi-db
+   hostname: HeseTazegi-db
+   image: mcr.microsoft.com/mssql/server:2022-latest
+   environment:
+      - ACCEPT_EULA=y
+      - SA_PASSWORD=Qwerty*2607548 
+   ports:
+    - "1443:1433" 
+   volumes:
+      - 'mssql-volume:/var/opt/mssql'
+
+networks:
+  HeseTazegi:
+    driver: bridge
+    
+volumes:
+  mssql-volume:
+    name: hese-tazegi-mssql-volume
+

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5zcvCPGpsJX8+a9Mq+tst8arw9ffz/E50zE2s5zSmVoZIEPPhtQ/aGDqryEWPkjBk9H9fvdphj39jcuV7MtiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mister.Dev\\Desktop\\HaseTazegi-Backend-Task\\HeseTazegi\\Write\\HeseTazegi.Application\\HeseTazegi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\bin\Debug\net7.0\HeseTazegi.Read.Queries.Contracts.deps.json
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\bin\Debug\net7.0\HeseTazegi.Read.Queries.Contracts.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\bin\Debug\net7.0\HeseTazegi.Read.Queries.Contracts.pdb
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\obj\Debug\net7.0\HeseTazegi.Read.Queries.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\obj\Debug\net7.0\HeseTazegi.Read.Queries.Contracts.AssemblyInfoInputs.cache
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\obj\Debug\net7.0\HeseTazegi.Read.Queries.Contracts.AssemblyInfo.cs
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\obj\Debug\net7.0\HeseTazegi.Read.Queries.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\obj\Debug\net7.0\HeseTazegi.Read.Queries.Contracts.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\obj\Debug\net7.0\refint\HeseTazegi.Read.Queries.Contracts.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\obj\Debug\net7.0\HeseTazegi.Read.Queries.Contracts.pdb
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\obj\Debug\net7.0\ref\HeseTazegi.Read.Queries.Contracts.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\bin\Debug\net7.0\Framework.Core.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\bin\Debug\net7.0\Framework.ReadModel.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\bin\Debug\net7.0\Framework.Core.pdb
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\bin\Debug\net7.0\Framework.ReadModel.pdb
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\obj\Debug\net7.0\HeseTazegi.Read.Queries.Contracts.csproj.AssemblyReference.cache
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Queries.Contracts\obj\Debug\net7.0\HeseTazegi.Read.Queries.Contracts.csproj.CopyComplete

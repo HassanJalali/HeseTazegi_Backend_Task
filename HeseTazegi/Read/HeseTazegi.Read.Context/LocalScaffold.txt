@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=.,1443;Database=HeseTazegi-db;User=sa;Password=Qwerty*2607548;Trusted_Connection=false; MultipleActiveResultSets=true;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context "HeseTazegiReadContext" -f

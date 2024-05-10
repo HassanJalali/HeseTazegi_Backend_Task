@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "613009F2-4082-459C-BDBB-745EFAA5094A",
+    "Name": "شیر",
+    "IsFoodAllergen": true,
+    "Timestamp": "2023-10-01 23:33:36.387"
+  },
+  {
+    "Id": "E64F8A39-ACD4-401A-80D0-B563C348C9E4",
+    "Name": "کره",
+    "IsFoodAllergen": false,
+    "Timestamp": "2023-10-01 23:33:36.387"
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\bin\Debug\net7.0\HeseTazegi.Read.Context.deps.json
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\bin\Debug\net7.0\HeseTazegi.Read.Context.runtimeconfig.json
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\bin\Debug\net7.0\HeseTazegi.Read.Context.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\bin\Debug\net7.0\HeseTazegi.Read.Context.pdb
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\obj\Debug\net7.0\HeseTazegi.Read.Context.csproj.AssemblyReference.cache
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\obj\Debug\net7.0\HeseTazegi.Read.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\obj\Debug\net7.0\HeseTazegi.Read.Context.AssemblyInfoInputs.cache
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\obj\Debug\net7.0\HeseTazegi.Read.Context.AssemblyInfo.cs
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\obj\Debug\net7.0\HeseTazegi.Read.Context.csproj.CoreCompileInputs.cache
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\obj\Debug\net7.0\HeseTazegi.Read.Context.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\obj\Debug\net7.0\refint\HeseTazegi.Read.Context.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\obj\Debug\net7.0\HeseTazegi.Read.Context.pdb
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\obj\Debug\net7.0\HeseTazegi.Read.Context.genruntimeconfig.cache
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Read\HeseTazegi.Read.Context\obj\Debug\net7.0\ref\HeseTazegi.Read.Context.dll

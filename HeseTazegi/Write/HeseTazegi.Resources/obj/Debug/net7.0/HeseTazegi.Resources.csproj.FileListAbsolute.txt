@@ -1,0 +1,14 @@
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\bin\Debug\net7.0\HeseTazegi.Resources.deps.json
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\bin\Debug\net7.0\HeseTazegi.Resources.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\bin\Debug\net7.0\HeseTazegi.Resources.pdb
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\obj\Debug\net7.0\HeseTazegi.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\obj\Debug\net7.0\HeseTazegi.Resources.AssemblyInfoInputs.cache
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\obj\Debug\net7.0\HeseTazegi.Resources.AssemblyInfo.cs
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\obj\Debug\net7.0\HeseTazegi.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\obj\Debug\net7.0\HeseTazegi.Resources.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\obj\Debug\net7.0\refint\HeseTazegi.Resources.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\obj\Debug\net7.0\HeseTazegi.Resources.pdb
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\obj\Debug\net7.0\ref\HeseTazegi.Resources.dll
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\obj\Debug\net7.0\HeseTazegi.Resources.FoodExceptionMessage.resources
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\obj\Debug\net7.0\HeseTazegi.Resources.IngredientExceptionMessage.resources
+C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi\Write\HeseTazegi.Resources\obj\Debug\net7.0\HeseTazegi.Resources.csproj.GenerateResource.cache

@@ -1,0 +1,70 @@
+name: dockercompose11914082825393852994
+services:
+  hesetazegi.webapi:
+    build:
+      context: C:\Users\Mister.Dev\Desktop\HaseTazegi-Backend-Task\HeseTazegi
+      dockerfile: Api/HeseTazegi.WebApi/Dockerfile
+    container_name: hesetazegi-webapi
+    depends_on:
+      mssql-db:
+        condition: service_started
+        restart: true
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DB_NAME: HeseTazegi-db
+      DB_PASS: Qwerty*2607548
+      DB_USER: SA
+      TZ: Ira
+    hostname: hesetazegi-webapi
+    image: hesetazegiwebapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "8081"
+      protocol: tcp
+    - mode: ingress
+      target: 443
+      published: "8082"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\Mister.Dev\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\Mister.Dev\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+  mssql-db:
+    container_name: HeseTazegi-db
+    environment:
+      ACCEPT_EULA: "y"
+      SA_PASSWORD: Qwerty*2607548
+    hostname: HeseTazegi-db
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "1443"
+      protocol: tcp
+    volumes:
+    - type: volume
+      source: mssql-volume
+      target: /var/opt/mssql
+      volume: {}
+networks:
+  default:
+    name: dockercompose11914082825393852994_default
+volumes:
+  mssql-volume:
+    name: hese-tazegi-mssql-volume
